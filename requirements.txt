@@ -1,0 +1,14 @@
+Django==4.2.2
+djangorestframework==3.14.0
+django-filter==23.2
+djangorestframework-simplejwt==5.2.2
+djoser==2.2.0
+Pillow==9.5.0
+django-cors-headers==4.1.0
+
+# gunicorn==20.0.4
+# psycopg2-binary==2.9.6
+
+# flake8==6.0.0
+# black==23.7.0
+# isort==5.12.0
