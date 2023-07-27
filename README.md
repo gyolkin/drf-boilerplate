@@ -1,5 +1,7 @@
 # Django REST Framework boilerplate
 
+Includes djoser, SimpleJWT, django-filter and django-cors-headers.
+
 ## Getting started
 
 1. Clone the repository
